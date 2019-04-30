@@ -1,0 +1,394 @@
+[00:02:18] [main/INFO]: Loaded 0 recipes
+[00:02:18] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[00:02:18] [Server thread/INFO]: Loading properties
+[00:02:18] [Server thread/INFO]: Default game type: SURVIVAL
+[00:02:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-518206a-a5b9c7b (MC: 1.13.2) (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+[00:02:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:02:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:02:19] [Server thread/INFO]: Debug logging is disabled
+[00:02:19] [Server thread/INFO]: Generating keypair
+[00:02:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:02:20] [Server thread/INFO]: Using epoll channel type
+[00:02:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0-beta-05;6bbf29b
+[00:02:28] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:02:28] [Server thread/INFO]: Preparing level "world"
+[00:02:28] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[00:02:29] [Server thread/INFO]: Loaded 524 recipes
+[00:02:31] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:02:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:02:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:02:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:02:31] [Server thread/INFO]: Random Lighting Updates: false
+[00:02:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:02:31] [Server thread/INFO]: Max TNT Explosions: 100
+[00:02:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:02:31] [Server thread/INFO]: Mob Spawn Range: 6
+[00:02:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:02:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:02:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:02:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:02:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:02:31] [Server thread/INFO]: View Distance: 10
+[00:02:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:02:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:02:31] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:02:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:02:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:02:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:02:31] [Server thread/INFO]: Random Lighting Updates: false
+[00:02:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:02:31] [Server thread/INFO]: Max TNT Explosions: 100
+[00:02:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:02:31] [Server thread/INFO]: Mob Spawn Range: 6
+[00:02:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:02:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:02:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:02:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:02:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:02:31] [Server thread/INFO]: View Distance: 10
+[00:02:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:02:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:02:31] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:02:31] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:02:31] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:02:31] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:02:31] [Server thread/INFO]: Random Lighting Updates: false
+[00:02:31] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[00:02:31] [Server thread/INFO]: Max TNT Explosions: 100
+[00:02:31] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:02:31] [Server thread/INFO]: Mob Spawn Range: 6
+[00:02:31] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Potato Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:02:31] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:02:31] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:02:31] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:02:31] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:02:31] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:02:31] [Server thread/INFO]: View Distance: 10
+[00:02:31] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:02:31] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:02:31] [Server thread/INFO]: Preparing start region for level minecraft:overworld (Seed: 1359035723726270626)
+[00:02:32] [Server thread/INFO]: Preparing spawn area: 4%
+[00:02:32] [Server thread/INFO]: Preparing spawn area: 8%
+[00:02:32] [Server thread/INFO]: Preparing spawn area: 12%
+[00:02:33] [Server thread/INFO]: Preparing spawn area: 16%
+[00:02:33] [Server thread/INFO]: Preparing spawn area: 20%
+[00:02:34] [Server thread/INFO]: Preparing spawn area: 24%
+[00:02:34] [Server thread/INFO]: Preparing spawn area: 28%
+[00:02:34] [Server thread/INFO]: Preparing spawn area: 32%
+[00:02:34] [Server thread/INFO]: Preparing spawn area: 36%
+[00:02:35] [Server thread/INFO]: Preparing spawn area: 40%
+[00:02:35] [Server thread/INFO]: Preparing spawn area: 44%
+[00:02:35] [Server thread/INFO]: Preparing spawn area: 48%
+[00:02:35] [Server thread/INFO]: Preparing spawn area: 52%
+[00:02:35] [Server thread/INFO]: Preparing spawn area: 56%
+[00:02:36] [Server thread/INFO]: Preparing spawn area: 60%
+[00:02:36] [Server thread/INFO]: Preparing spawn area: 64%
+[00:02:39] [Server thread/INFO]: Preparing spawn area: 68%
+[00:02:40] [Server thread/INFO]: Preparing spawn area: 72%
+[00:02:40] [Server thread/INFO]: Preparing spawn area: 76%
+[00:02:40] [Server thread/INFO]: Preparing spawn area: 80%
+[00:02:40] [Server thread/INFO]: Preparing spawn area: 84%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 88%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 92%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 96%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 100%
+[00:02:41] [Server thread/INFO]: Preparing start region for level minecraft:the_end (Seed: 4788248371136711731)
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 4%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 8%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 12%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 16%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 20%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 24%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 28%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 32%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 36%
+[00:02:41] [Server thread/INFO]: Preparing spawn area: 40%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 44%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 48%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 52%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 56%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 60%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 64%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 68%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 72%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 76%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 80%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 84%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 88%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 92%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 96%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 100%
+[00:02:42] [Server thread/INFO]: Preparing start region for level minecraft:the_nether (Seed: 4788248371136711731)
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 4%
+[00:02:42] [Server thread/INFO]: Preparing spawn area: 8%
+[00:02:43] [Server thread/INFO]: Preparing spawn area: 12%
+[00:02:43] [Server thread/INFO]: Preparing spawn area: 16%
+[00:02:43] [Server thread/INFO]: Preparing spawn area: 20%
+[00:02:43] [Server thread/INFO]: Preparing spawn area: 24%
+[00:02:43] [Server thread/INFO]: Preparing spawn area: 28%
+[00:02:43] [Server thread/INFO]: Preparing spawn area: 32%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 36%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 40%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 44%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 48%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 52%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 56%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 60%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 64%
+[00:02:44] [Server thread/INFO]: Preparing spawn area: 68%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 72%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 76%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 80%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 84%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 88%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 92%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 96%
+[00:02:45] [Server thread/INFO]: Preparing spawn area: 100%
+[00:02:45] [Server thread/INFO]: Time elapsed: 14074 ms
+[00:02:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0-beta-05;6bbf29b
+[00:02:46] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_13_R2_2 as the Bukkit adapter
+[00:02:47] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:02:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:02:47] [Server thread/INFO]: Done (19.432s)! For help, type "help"
+[00:03:00] [Server thread/INFO]: [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+[00:03:00] [Server thread/INFO]: [0;37;22mUse /help [n] to get page n of help.[m
+[00:03:00] [Server thread/INFO]: [0;33;22mAliases: [0;37;1mLists command aliases[m
+[00:03:00] [Server thread/INFO]: [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+[00:03:00] [Server thread/INFO]: [0;33;22mMinecraft: [0;37;1mAll commands for Minecraft[m
+[00:03:00] [Server thread/INFO]: [0;33;22mWorldEdit: [0;37;1mAll commands for WorldEdit[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/.s: [0;37;1mExecute last CraftScript[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//: [0;37;1mToggle the super pickaxe function[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//calc: [0;37;1mEvaluate a mathematical expression[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//center: [0;37;1mSet the center block(s)[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//chunk: [0;37;1mSet the selection to your current chunk.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//clearhistory: [0;37;1mClear your history[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//contract: [0;37;1mContract the selection area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//copy: [0;37;1mCopy the selection to the clipboard[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//count: [0;37;1mCounts the number of a certain type of block[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//curve: [0;37;1mDraws a spline through selected points[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//cut: [0;37;1mCut the selection to the clipboard[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//cyl: [0;37;1mGenerates a cylinder.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//deform: [0;37;1mDeforms a selected region with an expression[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//distr: [0;37;1mGet the distribution of blocks in the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//drain: [0;37;1mDrain a pool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//drawsel: [0;37;1mToggle drawing the current selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//ex: [0;37;1mExtinguish nearby fire[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//expand: [0;37;1mExpand the selection area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//faces: [0;37;1mBuild the walls, ceiling, and floor of a selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//fast: [0;37;1mToggle fast mode[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//fill: [0;37;1mFill a hole[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//fillr: [0;37;1mFill a hole recursively[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//fixlava: [0;37;1mFix lava to be stationary[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//fixwater: [0;37;1mFix water to be stationary[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//flip: [0;37;1mFlip the contents of the clipboard[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//flora: [0;37;1mMake flora within the region[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//forest: [0;37;1mMake a forest within the region[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//generate: [0;37;1mGenerates a shape according to a formula.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//generatebiome: [0;37;1mSets biome according to a formula.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//gmask: [0;37;1mSet the global mask[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//green: [0;37;1mGreens the area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//hcyl: [0;37;1mGenerates a hollow cylinder.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//help: [0;37;1mDisplays help for WorldEdit commands[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//hollow: [0;37;1mHollows out the object contained in this selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//hpos1: [0;37;1mSet position 1 to targeted block[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//hpos2: [0;37;1mSet position 2 to targeted block[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//hpyramid: [0;37;1mGenerate a hollow pyramid[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//hsphere: [0;37;1mGenerates a hollow sphere.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//inset: [0;37;1mInset the selection area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//limit: [0;37;1mModify block change limit[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//line: [0;37;1mDraws a line segment between cuboid selection corners[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//move: [0;37;1mMove the contents of the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//naturalize: [0;37;1m3 layers of dirt on top then rock below[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//outset: [0;37;1mOutset the selection area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//overlay: [0;37;1mSet a block on top of blocks in the region[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//paste: [0;37;1mPaste the clipboard's contents[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//pos1: [0;37;1mSet position 1[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//pos2: [0;37;1mSet position 2[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//pyramid: [0;37;1mGenerate a filled pyramid[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//redo: [0;37;1mRedoes the last action (from history)[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//regen: [0;37;1mRegenerates the contents of the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//removeabove: [0;37;1mRemove blocks above your head.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//removebelow: [0;37;1mRemove blocks below you.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//removenear: [0;37;1mRemove blocks near you.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//reorder: [0;37;1mSets the reorder mode of WorldEdit[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//replace: [0;37;1mReplace all blocks in the selection with another[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//replacenear: [0;37;1mReplace nearby blocks[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//rotate: [0;37;1mRotate the contents of the clipboard[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//searchitem: [0;37;1mSearch for an item[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//sel: [0;37;1mChoose a region selector[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//set: [0;37;1mSet all blocks within selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//setbiome: [0;37;1mSets the biome of the player's current block or region.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//shift: [0;37;1mShift the selection area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//size: [0;37;1mGet information about the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//smooth: [0;37;1mSmooth the elevation in the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//snow: [0;37;1mSimulates snow[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//sphere: [0;37;1mGenerates a filled sphere.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//stack: [0;37;1mRepeat the contents of the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//thaw: [0;37;1mThaws the area[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//toggleplace: [0;37;1mSwitch between your position and pos1 for placement[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//undo: [0;37;1mUndoes the last action[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//walls: [0;37;1mBuild the four sides of the selection[m
+[00:03:00] [Server thread/INFO]: [0;33;22m//wand: [0;37;1mGet the wand object[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/advancement: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/ascend: [0;37;1mGo up a floor[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/ban: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/ban-ip: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/banlist: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/biomeinfo: [0;37;1mGet the biome of the targeted block.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/biomelist: [0;37;1mGets all biomes available.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/bossbar: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/brush: [0;37;1mBrushing commands[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/butcher: [0;37;1mKill all or nearby mobs[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/ceil: [0;37;1mGo to the celing[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/chunkinfo: [0;37;1mGet information about the chunk that you are inside[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/clear: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/clearclipboard: [0;37;1mClear your clipboard[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/clone: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/cs: [0;37;1mExecute a CraftScript[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/cycler: [0;37;1mBlock data cycler tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/data: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/datapack: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/debug: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/defaultgamemode: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/delchunks: [0;37;1mDelete chunks that your selection includes[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/deltree: [0;37;1mFloating tree remover tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/deop: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/descend: [0;37;1mGo down a floor[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/difficulty: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/effect: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/enchant: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/execute: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/experience: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/farwand: [0;37;1mWand at a distance tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/fill: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/floodfill: [0;37;1mFlood fill tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/forceload: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/forestgen: [0;37;1mGenerate a forest[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/function: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/gamemode: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/gamerule: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/give: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/help: [0;37;1mShows the help menu[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/info: [0;37;1mBlock information tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/jumpto: [0;37;1mTeleport to a location[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/kick: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/kill: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/list: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/listchunks: [0;37;1mList chunks that your selection includes[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/locate: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/lrbuild: [0;37;1mLong-range building tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/mask: [0;37;1mSet the brush mask[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/mat: [0;37;1mSet the brush material[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/me: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/minecraft:help: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/minecraft:reload: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/msg: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/none: [0;37;1mUnbind a bound tool from your current item[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/op: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/pardon: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/pardon-ip: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/particle: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/playsound: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/publish: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/pumpkins: [0;37;1mGenerate pumpkin patches[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/range: [0;37;1mSet the brush range[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/recipe: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/remove: [0;37;1mRemove all entities of a type[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/repl: [0;37;1mBlock replacer tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/replaceitem: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/restart: [0;37;1mRestarts the server[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/restore: [0;37;1mRestore the selection from a snapshot[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/save-all: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/save-off: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/save-on: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/say: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/schematic: [0;37;1mSchematic commands for saving/loading areas[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/scoreboard: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/seed: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/setblock: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/setidletimeout: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/setworldspawn: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/size: [0;37;1mSet the brush size[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/snapshot: [0;37;1mSchematic commands for saving/loading areas[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/spawnpoint: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/spigot: [0;37;1mSpigot related commands[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/spreadplayers: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/stop: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/stopsound: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/summon: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/superpickaxe: [0;37;1mSuper-pickaxe commands[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tag: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/team: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/teleport: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tell: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tellraw: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/thru: [0;37;1mPassthrough walls[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/time: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/timings: [0;37;1mManages Spigot Timings data to see performance of the server.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/title: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/toggleeditwand: [0;37;1mToggle functionality of the edit wand[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tool: [0;37;1mBind functions to held items[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tp: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tps: [0;37;1mGets the current ticks per second for the server[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/tree: [0;37;1mTree generator tool[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/trigger: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/unstuck: [0;37;1mEscape from being stuck inside a block[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/up: [0;37;1mGo upwards some distance[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/w: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/weather: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/whitelist: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/worldborder: [0;37;1mA Mojang provided command.[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/worldedit: [0;37;1mWorldEdit commands[m
+[00:03:00] [Server thread/INFO]: [0;33;22m/xp: [0;37;1mA Mojang provided command.[m
+[00:03:29] [User Authenticator #1/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
+[00:03:34] [Server thread/INFO]: eelproductions[/104.55.34.175:50565] logged in with entity id 15554 at ([world]234.839948338841, 79.99638607070817, -107.8164212077566)
+[00:04:36] [Server thread/INFO]: [Server] test
+[00:04:54] [Server thread/INFO]: eelproductions lost connection: Disconnected
+[00:04:54] [Server thread/INFO]: eelproductions left the game
+[00:05:45] [Server thread/INFO]: [Hidden Merchant] It seems a hidden store opened up...
+[00:15:53] [Server thread/INFO]: [Server] test
+[00:17:03] [User Authenticator #2/INFO]: UUID of player eelproductions is 64711451-e51b-46e7-8489-926fa3755009
+[00:17:06] [Server thread/INFO]: eelproductions[/104.55.34.175:50722] logged in with entity id 23453 at ([world]234.839948338841, 79.99638607070817, -107.8164212077566)
+[00:19:13] [Thread-2/INFO]: Stopping server
+[00:19:13] [Thread-2/INFO]: Saving players
